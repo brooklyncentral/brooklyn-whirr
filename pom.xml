@@ -26,6 +26,7 @@
     <modules>
         <module>whirr-core</module>
         <module>whirr-hadoop</module>
+        <module>examples</module>
     </modules>
 
     <build>
