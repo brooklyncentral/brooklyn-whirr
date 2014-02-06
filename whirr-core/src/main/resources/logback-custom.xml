@@ -1,0 +1,5 @@
+<included>
+    <logger name="org.apache.whirr.service.ComputeCache" additivity="false">
+        <appender-ref ref="FILE" />
+    </logger>
+</included>
